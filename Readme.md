@@ -63,12 +63,10 @@ Welcome to submit feedback in the issue section.
 
 Welcome to use  our product [**Axion**](https://www.easy-ai.us/)
 
-![](/Users/didi/Code/Github/Easy-AI/open_chatgpt/resources/google-play.png) 
+![](./resources/google-play.png) 
 
 [**Google Play**](https://play.google.com/store/apps/details?id=com.easyai.chat)
 
-![](/Users/didi/Code/Github/Easy-AI/open_chatgpt/resources/apple-store.png) 
+![](./resources/apple-store.png) 
 
 [**Apple Store**](https://apps.apple.com/cn/app/axion-powerful-ai-chatbot/id6452236314)
-
-https://apps.apple.com/cn/app/axion-powerful-ai-chatbot/id6452236314)
